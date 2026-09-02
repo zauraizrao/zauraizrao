@@ -91,6 +91,6 @@ Karachi, Pakistan · Aug 2025 – Jul 2029
 
 <div align="center">
 
-📫 **zauraiz79@gmail.com**  ·  🌐 **[zauraizrao.netlify.app](https://zauraizrao.netlify.app/)**  ·  💻 **[github.com/zauraizrao](https://github.com/zauraizrao)**
+📫 **zauraiz79@gmail.com**  ·  🌐 **[https://zauraizrao.vercel.app/]([https://zauraizrao.netlify.app/](https://zauraizrao.vercel.app/))**  ·  💻 **[github.com/zauraizrao](https://github.com/zauraizrao)**
 
 </div>
