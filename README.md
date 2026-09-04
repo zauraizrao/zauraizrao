@@ -6,7 +6,7 @@
 
 Building practical web products and business applications — with long-term ownership of the websites I ship.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-zauraizrao.netlify.app-1a1a1a?style=for-the-badge&logo=vercel&logoColor=white)](https://zauraizrao.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-zauraizrao.vercel.app-1a1a1a?style=for-the-badge&logo=vercel&logoColor=white)](https://zauraizrao.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-zauraizrao9-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zauraizrao9)
 [![Email](https://img.shields.io/badge/Email-zauraiz79%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zauraiz79@gmail.com)
 
